@@ -33,3 +33,5 @@ Below is an outline of the workshop content:
 * **Module 3: Retrieval Augmented Generation (RAG) for Text-to-SQL.** Leverage a FAISS in-memory vector store of data set meta data to improve query accuracy.
 * **Module 4: Introduction to Security for Text-to-SQL.** Guard against prompt injection and SQL injection using prompt engineering techniques.  
 * **Module 5: Fine-tuning for Text-to-SQL.** Fine-tune a Titan model on the Spider Dataset to improve Text-to-SQL accuracy.
+
+* **Frontend Demo:** A React application in the `frontend` folder demonstrates calling Amazon Bedrock directly from the browser.
